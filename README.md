@@ -61,8 +61,13 @@ Predict whether a customer is likely to **leave the telecom service (churn)** ba
 
 ## 📊 SHAP Interpretations
 
-![SHAP Summary](images/shap_summary.png)  
+<img width="403" height="714" alt="image" src="https://github.com/user-attachments/assets/693abbba-6483-4238-ae66-2cf032ee2163" /> 
 *Explains which features most impacted predictions.*
+
+## 📊 LIME Interpretations
+
+<img width="1021" height="180" alt="image" src="https://github.com/user-attachments/assets/dd707cfb-729e-4b00-96d4-1845fde07aba" />
+*local explanation for one specific prediction made by the model*
 
 ---
 
